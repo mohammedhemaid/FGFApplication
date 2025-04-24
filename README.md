@@ -7,10 +7,12 @@ This is a simple Android app that fetches a list of cats from the [Cat API](http
 
 You can try out the latest version of the app by downloading the APK file below:
 
-👉 **[Download FGF App APK]()**
+👉 **[Download FGF App APK](https://github.com/mohammedhemaid/FGFApplication/blob/main/app-release.apk)**
 
-📚 Resources & Inspirations
+## 📚 Resources & Inspirations
+
 I used the following resources and references to build this app, drawing inspiration from modern Android architecture, Jetpack Compose, and official best practices:
+
 - **[Now in Android (NIA)](https://github.com/android/nowinandroid)**  
   Google's modern Android reference app using best practices, Jetpack libraries, and Kotlin.
 
