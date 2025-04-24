@@ -3,6 +3,12 @@ FDF Onsite App
 
 This is a simple Android app that fetches a list of cats from the [Cat API](https://thecatapi.com/) and displays them in a scrollable list.
 
+## 📦 APK Download
+
+You can try out the latest version of the app by downloading the APK file below:
+
+👉 **[Download FGF App APK]()**
+
 📚 Resources & Inspirations
 I used the following resources and references to build this app, drawing inspiration from modern Android architecture, Jetpack Compose, and official best practices:
 - **[Now in Android (NIA)](https://github.com/android/nowinandroid)**  
